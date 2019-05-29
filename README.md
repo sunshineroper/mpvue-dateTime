@@ -16,4 +16,4 @@
 this.$refs.picker.show()
 ```
 # 截图
-![截图](https://s2.ax1x.com/2019/05/29/VnB6BD.gif)
+![最终效果](https://imgchr.com/i/VnB6BD)
